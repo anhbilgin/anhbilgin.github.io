@@ -2,12 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #111; /* Black background */
+    color: #fff; /* White text */
 }
 
 header {
-    background-color: #007BFF;
-    color: white;
+    background-color: #333; /* Dark gray header background */
+    color: #fff; /* White text */
     text-align: center;
     padding: 20px;
 }
@@ -16,10 +17,11 @@ main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: white;
+    background-color: #222; /* Slightly lighter black */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
     margin-top: -40px;
+    color: #fff; /* White text */
 }
 
 h1 {
